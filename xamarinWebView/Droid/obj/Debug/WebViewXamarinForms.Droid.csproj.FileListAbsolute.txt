@@ -1,0 +1,151 @@
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\WebViewXamarinForms.Droid.dll
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\WebViewXamarinForms.Droid.pdb
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\WebViewXamarinForms.Droid.apk
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\WebViewXamarinForms.Droid-Signed.apk
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\WebViewXamarinForms.dll
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\WebViewXamarinForms.pdb
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\WebViewXamarinForms.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\WebViewXamarinForms.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\WebViewXamarinForms.Droid.dll
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\WebViewXamarinForms.Droid.pdb
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\android\bin\WebViewXamarinForms.Droid.apk
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\R.cs.flag
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\uploadflags.txt
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\WebViewXamarinForms.Droid.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\System.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\android\assets\WebViewXamarinForms.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\android\assets\WebViewXamarinForms.Droid.dll.mdb
+C:\Users\Elidei\Desktop\webview\Droid\obj\Debug\WebViewXamarinForms.Droid.dll.mdb
+F:\WORK\ANDROID\webview\Droid\bin\Debug\WebViewXamarinForms.Droid.dll
+F:\WORK\ANDROID\webview\Droid\bin\Debug\WebViewXamarinForms.Droid.pdb
+F:\WORK\ANDROID\webview\Droid\bin\Debug\WebViewXamarinForms.Droid.apk
+F:\WORK\ANDROID\webview\Droid\bin\Debug\WebViewXamarinForms.Droid-Signed.apk
+F:\WORK\ANDROID\webview\Droid\bin\Debug\FormsViewGroup.dll
+F:\WORK\ANDROID\webview\Droid\bin\Debug\WebViewXamarinForms.dll
+F:\WORK\ANDROID\webview\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\WORK\ANDROID\webview\Droid\bin\Debug\Xamarin.Forms.Core.dll
+F:\WORK\ANDROID\webview\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+F:\WORK\ANDROID\webview\Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\WORK\ANDROID\webview\Droid\bin\Debug\WebViewXamarinForms.pdb
+F:\WORK\ANDROID\webview\Droid\bin\Debug\Xamarin.Forms.Core.xml
+F:\WORK\ANDROID\webview\Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\WORK\ANDROID\webview\Droid\obj\Debug\WebViewXamarinForms.Droid.csprojResolveAssemblyReference.cache
+F:\WORK\ANDROID\webview\Droid\obj\Debug\WebViewXamarinForms.Droid.dll
+F:\WORK\ANDROID\webview\Droid\obj\Debug\WebViewXamarinForms.Droid.pdb
+F:\WORK\ANDROID\webview\Droid\obj\Debug\android\bin\WebViewXamarinForms.Droid.apk
+F:\WORK\ANDROID\webview\Droid\obj\Debug\res\drawable\icon.png
+F:\WORK\ANDROID\webview\Droid\obj\Debug\res\drawable-hdpi\icon.png
+F:\WORK\ANDROID\webview\Droid\obj\Debug\res\drawable-xhdpi\icon.png
+F:\WORK\ANDROID\webview\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\WORK\ANDROID\webview\Droid\obj\Debug\R.cs.flag
+F:\WORK\ANDROID\webview\Droid\obj\Debug\uploadflags.txt
+F:\WORK\ANDROID\webview\Droid\bin\Debug\WebViewXamarinForms.Droid.dll.mdb
+F:\WORK\ANDROID\webview\Droid\bin\Debug\WebViewXamarinForms.dll.mdb
+F:\WORK\ANDROID\webview\Droid\bin\Debug\Java.Interop.dll.mdb
+F:\WORK\ANDROID\webview\Droid\bin\Debug\Mono.Android.dll.mdb
+F:\WORK\ANDROID\webview\Droid\bin\Debug\mscorlib.dll.mdb
+F:\WORK\ANDROID\webview\Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+F:\WORK\ANDROID\webview\Droid\bin\Debug\System.Core.dll.mdb
+F:\WORK\ANDROID\webview\Droid\bin\Debug\System.dll.mdb
+F:\WORK\ANDROID\webview\Droid\bin\Debug\System.Net.Http.dll.mdb
+F:\WORK\ANDROID\webview\Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+F:\WORK\ANDROID\webview\Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+F:\WORK\ANDROID\webview\Droid\bin\Debug\System.Xml.dll.mdb
+F:\WORK\ANDROID\webview\Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+F:\WORK\ANDROID\webview\Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+F:\WORK\ANDROID\webview\Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+F:\WORK\ANDROID\webview\Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+F:\WORK\ANDROID\webview\Droid\obj\Debug\android\assets\System.Core.dll.mdb
+F:\WORK\ANDROID\webview\Droid\obj\Debug\android\assets\System.dll.mdb
+F:\WORK\ANDROID\webview\Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+F:\WORK\ANDROID\webview\Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+F:\WORK\ANDROID\webview\Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+F:\WORK\ANDROID\webview\Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+F:\WORK\ANDROID\webview\Droid\obj\Debug\android\assets\WebViewXamarinForms.dll.mdb
+F:\WORK\ANDROID\webview\Droid\obj\Debug\android\assets\WebViewXamarinForms.Droid.dll.mdb
+F:\WORK\ANDROID\webview\Droid\obj\Debug\WebViewXamarinForms.Droid.dll.mdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\WebViewXamarinForms.Droid.dll.config
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\WebViewXamarinForms.Droid.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\WebViewXamarinForms.Droid.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\GOPS.GOPS.apk
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\GOPS.GOPS-Signed.apk
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\EasySplashScreen.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\FormsViewGroup.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\ModernHttpClient.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Newtonsoft.Json.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\OkHttp.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\WebViewXamarinForms.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Core.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Pages.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Platform.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Theme.Android.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Theme.Base.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Theme.Light.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\WebViewXamarinForms.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\FormsViewGroup.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\FormsViewGroup.dll.mdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\ModernHttpClient.dll.mdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Newtonsoft.Json.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Core.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Core.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\obj\Debug\WebViewXamarinForms.Droid.csprojResolveAssemblyReference.cache
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\obj\Debug\WebViewXamarinForms.Droid.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\obj\Debug\WebViewXamarinForms.Droid.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\obj\Debug\android\bin\GOPS.GOPS.apk
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\obj\Debug\res\drawable\icon.png
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\obj\Debug\res\drawable-hdpi\icon.png
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\obj\Debug\res\drawable-xhdpi\icon.png
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\obj\Debug\res\values\styles.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\obj\Debug\res\values\colors.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\obj\Debug\res\drawable\logow.png
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\obj\Debug\R.cs.flag
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\obj\Debug\uploadflags.txt
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\obj\Debug\WebViewXamarinForms.Droid.dll.mdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\Droid\bin\Debug\WebViewXamarinForms.Droid.dll.mdb

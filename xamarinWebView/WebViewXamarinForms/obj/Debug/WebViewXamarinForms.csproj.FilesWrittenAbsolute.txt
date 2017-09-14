@@ -1,0 +1,24 @@
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/WebViewXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/WebViewXamarinForms.dll.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/WebViewXamarinForms.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/WebViewXamarinForms/obj/Debug/WebViewXamarinForms.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/WebViewXamarinForms/obj/Debug/WebViewXamarinForms.dll.mdb
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/WebViewXamarinForms.dll.mdb
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/WebViewXamarinForms.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/obj/Debug/WebViewXamarinForms.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/obj/Debug/WebViewXamarinForms.dll.mdb
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/mscorlib.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/System.Core.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/System.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/System.Linq.Queryable.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/System.Diagnostics.Tools.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/System.Net.Primitives.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/System.Net.Requests.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/System.Net.NetworkInformation.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/WebViewXamarinForms/bin/Debug/System.Text.RegularExpressions.dll

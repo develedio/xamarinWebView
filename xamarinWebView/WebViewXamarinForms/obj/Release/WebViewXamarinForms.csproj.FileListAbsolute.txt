@@ -1,0 +1,67 @@
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\bin\Release\WebViewXamarinForms.dll
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\bin\Release\WebViewXamarinForms.pdb
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\obj\Release\WebViewXamarinForms.dll
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\obj\Release\WebViewXamarinForms.pdb
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\obj\Release\WebViewXamarinForms.dll.mdb
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\bin\Release\WebViewXamarinForms.dll.mdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\WebViewXamarinForms.dll.config
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\WebViewXamarinForms.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\WebViewXamarinForms.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\ModernHttpClient.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\Newtonsoft.Json.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\System.Net.Http.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\System.Net.Http.Extensions.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\System.Net.Http.Primitives.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Core.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Pages.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Platform.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Theme.Base.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Theme.Light.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Xaml.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\Newtonsoft.Json.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\System.Net.Http.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\System.Net.Http.Extensions.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\System.Net.Http.Primitives.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Core.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Core.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Platform.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Xaml.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Xaml.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\obj\Release\WebViewXamarinForms.csproj.App.config
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\obj\Release\WebViewXamarinForms.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\obj\Release\WebViewXamarinForms.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\obj\Release\WebViewXamarinForms.dll.mdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Release\WebViewXamarinForms.dll.mdb
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\WebViewXamarinForms.dll.config
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\WebViewXamarinForms.dll
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\WebViewXamarinForms.pdb
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\ModernHttpClient.dll
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\Newtonsoft.Json.dll
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\System.Net.Http.dll
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\System.Net.Http.Extensions.dll
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\System.Net.Http.Primitives.dll
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Core.dll
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Pages.dll
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Platform.dll
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Theme.Base.dll
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Theme.Light.dll
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Xaml.dll
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\Newtonsoft.Json.xml
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\System.Net.Http.xml
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\System.Net.Http.Extensions.xml
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\System.Net.Http.Primitives.xml
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Core.pdb
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Core.xml
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Platform.pdb
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Xaml.pdb
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\Xamarin.Forms.Xaml.xml
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\obj\Release\WebViewXamarinForms.csproj.App.config
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\obj\Release\WebViewXamarinForms.csprojResolveAssemblyReference.cache
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\obj\Release\WebViewXamarinForms.dll
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\obj\Release\WebViewXamarinForms.pdb
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\obj\Release\WebViewXamarinForms.dll.mdb
+F:\WORK\00DE\00Propios\Xamarin\webview\WebViewXamarinForms\bin\Release\WebViewXamarinForms.dll.mdb

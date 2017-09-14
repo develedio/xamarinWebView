@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="TEST.TEST" android:versionCode="1" android:versionName="Name">
+	<uses-sdk android:minSdkVersion="15" android:targetSdkVersion="21" />
+	<application android:label="TESTXamarin"></application>
+	<uses-permission android:name="android.permission.INTERNET" />
+</manifest>

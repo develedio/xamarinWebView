@@ -1,0 +1,49 @@
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\bin\Debug\WebViewXamarinForms.dll
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\bin\Debug\WebViewXamarinForms.pdb
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\obj\Debug\WebViewXamarinForms.csprojResolveAssemblyReference.cache
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\obj\Debug\WebViewXamarinForms.dll
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\obj\Debug\WebViewXamarinForms.pdb
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\obj\Debug\WebViewXamarinForms.dll.mdb
+C:\Users\Elidei\Desktop\webview\WebViewXamarinForms\bin\Debug\WebViewXamarinForms.dll.mdb
+F:\WORK\ANDROID\webview\WebViewXamarinForms\bin\Debug\WebViewXamarinForms.dll
+F:\WORK\ANDROID\webview\WebViewXamarinForms\bin\Debug\WebViewXamarinForms.pdb
+F:\WORK\ANDROID\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Core.dll
+F:\WORK\ANDROID\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\WORK\ANDROID\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Core.xml
+F:\WORK\ANDROID\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\WORK\ANDROID\webview\WebViewXamarinForms\obj\Debug\WebViewXamarinForms.dll
+F:\WORK\ANDROID\webview\WebViewXamarinForms\obj\Debug\WebViewXamarinForms.pdb
+F:\WORK\ANDROID\webview\WebViewXamarinForms\obj\Debug\WebViewXamarinForms.dll.mdb
+F:\WORK\ANDROID\webview\WebViewXamarinForms\bin\Debug\WebViewXamarinForms.dll.mdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\WebViewXamarinForms.dll.config
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\WebViewXamarinForms.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\WebViewXamarinForms.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\ModernHttpClient.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\Newtonsoft.Json.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\System.Net.Http.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\System.Net.Http.Extensions.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\System.Net.Http.Primitives.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Core.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Pages.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Platform.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Theme.Base.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Theme.Light.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\Newtonsoft.Json.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\System.Net.Http.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\System.Net.Http.Extensions.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\System.Net.Http.Primitives.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Core.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Core.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\obj\Debug\WebViewXamarinForms.csproj.App.config
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\obj\Debug\WebViewXamarinForms.dll
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\obj\Debug\WebViewXamarinForms.pdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\obj\Debug\WebViewXamarinForms.dll.mdb
+F:\WORK\01_SAVIA_RD\GOPS\00-GOPS-ANDROID\Etapa 2\APP\webview\WebViewXamarinForms\bin\Debug\WebViewXamarinForms.dll.mdb

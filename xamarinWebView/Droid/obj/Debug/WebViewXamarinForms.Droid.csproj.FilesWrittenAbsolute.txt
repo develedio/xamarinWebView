@@ -1,0 +1,42 @@
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/bin/Debug/WebViewXamarinForms.Droid.dll.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/bin/Debug/WebViewXamarinForms.Droid.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/bin/Debug/WebViewXamarinForms.Droid.apk
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/obj/Debug/android/bin/WebViewXamarinForms.Droid.apk
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/obj/Debug/res/drawable/icon.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/obj/Debug/R.cs.flag
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/bin/Debug/WebViewXamarinForms.Droid-Signed.apk
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/obj/Debug/uploadflags.txt
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/obj/Debug/WebViewXamarinForms.Droid.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/obj/Debug/WebViewXamarinForms.Droid.dll.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/bin/Debug/FormsViewGroup.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/bin/Debug/WebViewXamarinForms.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/WebViewXamarinForms/Droid/bin/Debug/WebViewXamarinForms.dll.mdb
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/bin/Debug/WebViewXamarinForms.Droid.dll.mdb
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/bin/Debug/WebViewXamarinForms.Droid.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/bin/Debug/WebViewXamarinForms.Droid.apk
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/obj/Debug/android/bin/WebViewXamarinForms.Droid.apk
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/obj/Debug/res/drawable/icon.png
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/obj/Debug/R.cs.flag
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/bin/Debug/WebViewXamarinForms.Droid-Signed.apk
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/obj/Debug/uploadflags.txt
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/obj/Debug/WebViewXamarinForms.Droid.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/obj/Debug/WebViewXamarinForms.Droid.dll.mdb
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/bin/Debug/FormsViewGroup.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/bin/Debug/WebViewXamarinForms.dll
+/Volumes/HP V215B/Live/WebViewXamarinForms/Droid/bin/Debug/WebViewXamarinForms.dll.mdb
