@@ -4,6 +4,7 @@ Xamarin offers the alternative of creating cross-platform applications, addition
 
 
 Important
+
 when you download the xamarinWebView-master.zip file you should follow these steps:
 1. Right click on the .zip and select the Properties option
 2. In the General tab you will see a message of "Ability: This file comes from another computer and could be blocked to help protect the computer.
@@ -14,6 +15,7 @@ when you download the xamarinWebView-master.zip file you should follow these ste
 /*-----------------------------------------------------------------------------*/
 
 Importante
+
 cuando usted descargue el archivo xamarinWebView-master.zip debe seguir los siguientes pasos:
 1. Clic derecho sobre el .zip y seleccione l opción Propiedades
 2. en el Tab General le aparecerá un mensaje de Segutidad: Este archivo proviene de otro equipo y podría bloquearse para ayudar a proteger el equipo.
